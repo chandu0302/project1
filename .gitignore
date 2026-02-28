@@ -1,0 +1,5 @@
+loan_approval_data.csv
+*.csv
+__pycache__/
+*.pyc
+.env
